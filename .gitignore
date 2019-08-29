@@ -99,8 +99,10 @@ venv.bak/
 # mypy
 .mypy_cache/
 
+#redis
+*.rdb
+
 
 # misc
 .DS_Store
 .vscode
-/gamma-world
